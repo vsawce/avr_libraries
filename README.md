@@ -7,7 +7,7 @@ No warranty. MIT License.<br/>
 ## Quick Links
 [ATMega328p Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)<br/>
 [Nokia 5110 Datasheet](https://www.sparkfun.com/datasheets/LCD/Monochrome/Nokia5110.pdf)<br/>
-[HD44780U 1602 LCD Datasheet](http://www.microchip.ua/wireless/esp01.pdf)<br/>
+[HD44780U 1602 LCD Datasheet](https://www.sparkfun.com/datasheets/LCD/HD44780.pdf)<br/>
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br/>
