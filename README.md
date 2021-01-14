@@ -1,4 +1,4 @@
-# avr_libraries
+# libraries_avr
 A collection of AVR libraries I made/built off of.<br/>
 <br/>
 I like using a conf.h file for pin assignments as it helps portability between different embedded setups, so be sure to include conf.h if you use my drivers! Or you can just define the pins by yourself.<br/>
@@ -12,7 +12,7 @@ No warranty. MIT License.<br/>
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br/>
 
-*Copyright © 2021 Vincent Saw*<br/>
+*Copyright Â© 2021 Vincent Saw*<br/>
 <br/>
 *Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"),
 to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,
